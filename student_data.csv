@@ -1,0 +1,11 @@
+student_ID,Age,Gender,Test Score,Passed Exam
+1,18,Male,85,Yes
+2,19,Female,92,Yes
+3,20,Male,78,No
+4,19,Female,88,Yes
+5,20,Male,76,No
+6,18,Male,90,Yes
+7,19,Female,82,Yes
+8,20,Female,68,No
+9,18,Male,79,No
+10,19,Male,94,Yes
